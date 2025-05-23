@@ -4,6 +4,12 @@ A simple and elegant task planner web app that helps users stay organized by all
 
 > 🔗 [Live Demo](https://planningdaily.netlify.app/)
 
+
+
+---
+![daily planner](https://github.com/user-attachments/assets/6a0b9f5c-6ec7-4746-b2a8-9c83f7c46be1)
+
+
 ---
 
 ## 💡 Features
